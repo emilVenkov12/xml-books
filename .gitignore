@@ -1,0 +1,4 @@
+/storage/failed-imports/*
+/storage/processed-imports/*
+/vendor
+.phpunit.result.cache

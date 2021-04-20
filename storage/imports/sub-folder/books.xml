@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <author>
+            Gosho Goshov
+        </author>
+        <name>
+            Gosho's Book Title
+        </name>
+    </book>
+    <book>
+        <author>
+            Gosho Goshov
+        </author>
+        <name>
+            Gosho's Book Title 2
+        </name>
+    </book>
+    <book>
+        <author>
+            Pesho Peshov
+        </author>
+        <name>
+            Pesho's Book Title
+        </name>
+    </book>
+    <book>
+        <author>
+            Петър Петров
+        </author>
+        <name>
+            Книга от Петър
+        </name>
+    </book>
+    <book>
+        <author>
+            書作者
+        </author>
+        <name>
+            幫助
+        </name>
+    </book>
+</books>

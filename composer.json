@@ -1,0 +1,20 @@
+{
+  "name": "emilv/xml-books",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Emil Venkov",
+      "email": "emil.venkov12@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "pestphp/pest": "^1.0"
+  }
+}

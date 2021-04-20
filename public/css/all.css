@@ -1,0 +1,54 @@
+.body {
+  font-family: Barlow;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.search-form {
+  text-align: center;
+}
+
+.search-form input {
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-right: 10px;
+  border: 1px solid gray;
+}
+
+.search-form button {
+  height: 100%;
+  border: 1px solid gray;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.results-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.results-table {
+  margin-bottom: 1rem;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.results-table td {
+  padding: 10px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.results-table th {
+  padding: 10px 30px 10px 10px;
+  border-bottom: 2px solid #dee2e6;
+}
